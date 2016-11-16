@@ -5,7 +5,10 @@ title: A Bay of Contradictions
 
 This is a short piece of fiction that I wrote. It was originally published on [Medium](https://medium.com/@samyakdatta/a-bay-of-contradictions-ffaef38201a9#.vxwtiwix3).
 
-$$ \cdots $$
+
+<div style="text-align:center;">
+	<img style="padding:10px;" src="/image/MarineDrive.jpg" alt="" width="900" height="300">
+</div> <br />
 
 Every Sunday evening, as the sun makes its way towards the horizon, splashing the skies with a wine-coloured hue, I immerse myself in a book and the world around me goes about with its usual business. Afternoon has passed, but the evening is not yet upon us in its full glory. The city seems to be waking up from its slumber and is perched on the edge of something exciting. The microcosm of life unfolds on the promenade behind my back. Hyper-active kids chasing each other, shouts of warning coming from their guardians, fitness enthusiasts staring straight ahead with mute determination and couples and groups lost within their own clique of stories, gossip and laughter.
 
