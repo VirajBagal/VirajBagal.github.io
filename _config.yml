@@ -9,11 +9,9 @@
 title: Samyak Datta
 email: datta [dot] samyak [at] gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  D-326, Old Boys Hostel,
-  IIIT-Hyderabad, Gacchibowli
-  Hyderabad - 500032
+  This is Samyak Datta's personal website and blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://samyak-268.github.io" # the base hostname & protocol for your site
 permalink: blog/:year/:month/:title
 twitter_username: samyakdatta
 github_username:  samyak-268
