@@ -25,8 +25,12 @@ Currently, I am working on applying deep learning techniques to solve the identi
 				<p>
 				<a href="/blog/2016/08/learning-opencv3-book">Learning OpenCV 3 Application Development</a> <br>
 				<strong>Samyak Datta</strong><br>
-				<em>Packt Publishers</em>, ISBN 13 : 9781784391454 <br>
-				<p style="font-size:14px;">Build, create and deploy your own computer vision applications with the power of OpenCV</p>
+				<em><a href="https://www.packtpub.com/">Packt Publishers</a></em>, ISBN 13 : 9781784391454 <br>
+				<p style="font-size:14px;">Build, create and deploy your own computer vision applications with the power of OpenCV <br />
+				<div style="color:red;">Available for pre-order at <a href="https://www.packtpub.com/application-development/learning-opencv">Packt</a> and <a href="https://www.amazon.in/Learning-OpenCV-Samyak-Datta-ebook/dp/B01IF8J2CK">Amazon</a>!</div> <br>
+
+				<p style="font-size:14px;">Expected release : December 2016</p>
+				</p>
 				</p>
 			</td>
 			
@@ -38,7 +42,7 @@ Currently, I am working on applying deep learning techniques to solve the identi
 			<td width="25%"><img src="/image/auto-attendance.jpg" alt="Automated Attendance" width="250" style="border-style: none"></td>
 			<td width="75%" valign="top">
 				<p>
-				<a href="">Automated Classroom Attendance using Deep Face Recognition</a> <br>
+				<b>Automated Classroom Attendance using Deep Face Recognition</b><br>
 				Ashwin Sudhir, Harshil Jain, <strong>Samyak Datta</strong><br>
 				<em>(in progress)</em>, September 2016 - present <br>
 				</p>
@@ -52,8 +56,8 @@ Currently, I am working on applying deep learning techniques to solve the identi
 			<td width="25%"><img src="/image/siamese-net.png" alt="Large-Scale Face Retrieval" width="250" style="border-style: none"></td>
 			<td width="75%" valign="top">
 				<p>
-				<a href="">Face Retrieval in Unconstrained, Large Scale Settings</a> <br>
-				<strong>Samyak Datta</strong>, Gaurav Sharma and C.V. Jawahar<br>
+				<b>Face Retrieval in Unconstrained, Large Scale Settings</b> <br>
+				<strong>Samyak Datta</strong>, <a href="http://www.grvsharma.com">Gaurav Sharma</a> and <a href="https://www.iiit.ac.in/~jawahar/">C.V. Jawahar</a><br>
 				<em>(in progress)</em>, August 2016 - present <br>
 				</p>
 			</td>
@@ -66,8 +70,8 @@ Currently, I am working on applying deep learning techniques to solve the identi
 			<td width="25%"><img src="/image/ieee-csvt-sample.png" alt="IEEE-CSVT-Sample" width="250" style="border-style: none"></td>
 			<td width="75%" valign="top">
 				<p>
-				<a href="">Integrating Geometric and Textural Features for Facial Emotion Classification using Hierarchical SVM Frameworks</a> <br>
-				<strong>Samyak Datta</strong>, Debashis Sen, R. Balasubramanian<br>
+				<b>Integrating Geometric and Textural Features for Facial Emotion Classification using Hierarchical SVM Frameworks</b> <br>
+				<strong>Samyak Datta</strong>, <a href="https://sites.google.com/site/dseniitkharagpur/">Debashis Sen</a>, <a href="https://sites.google.com/site/balaiitr/">R. Balasubramanian</a><br>
 				<em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<b>under review</b>) <br>
 				</p>
 			</td>
@@ -81,7 +85,7 @@ Currently, I am working on applying deep learning techniques to solve the identi
 			<td width="75%" valign="top">
 				<p>
 				<a href="/pdfs/cvip_paper.pdf">Integrating Geometric and Textural Features for Facial Emotion Classification using SVM Frameworks</a> <br>
-				<strong>Samyak Datta</strong>, Debashis Sen, R. Balasubramanian<br>
+				<strong>Samyak Datta</strong>, <a href="https://sites.google.com/site/dseniitkharagpur/">Debashis Sen</a>, <a href="https://sites.google.com/site/balaiitr/">R. Balasubramanian</a><br>
 				<em>International Conference on Computer Vision and Image Processing (CVIP)</em>, 2016<br>
 				</p>
 			</td>
@@ -95,7 +99,7 @@ Currently, I am working on applying deep learning techniques to solve the identi
 			<td width="75%" valign="top">
 				<p>
 				<a href="/pdfs/gender-report.pdf">Gender Identification from Facial Images Using Local Texture Based Features</a> <br>
-				<strong>Samyak Datta</strong>, Abhishek K. Das<br>
+				<strong>Samyak Datta</strong>, <a href="http://abkds.github.io/">Abhishek K. Das</a><br>
 				Course Project, <em>Machine Learning (EE-680)</em><br>
 				<a href="/pdfs/gender-report.pdf">project report</a> / <a href="https://github.com/samyak-268/gender-classification">code</a>
 				</p>
