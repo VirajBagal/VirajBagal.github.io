@@ -13,6 +13,11 @@ I am a research intern working under the joint supervision of [Dr. C.V. Jawahar]
 Currently, I am working on applying deep learning techniques to solve the identity-based face retrieval problem in unconstrained, large-scale settings. Broadly speaking, my area of interests lie at the intersection of Deep Learning, Computer Vision  and Machine Learning.
 
 <br />
+<p>
+<a href="mailto:datta.samyak@gmail.com"> Email </a> | <a href="http://github.com/samyak-268/">GitHub</a>
+</p>
+
+<br />
 
 ## Research and Selected Projects
 
