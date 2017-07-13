@@ -12,7 +12,15 @@ I am a research intern working under the joint supervision of [Prof. C.V. Jawaha
 
 Broadly speaking, my area of interests lie at the intersection of Deep Learning, Computer Vision  and Machine Learning. Currently, I am working on problems related to the unsupervised learning of discriminative face representations using deep networks. In the past, I have also spent time with other problems in the space of facial analysis such as gender recognition and facial expression classification.
 
- <span style="color:red;">[ Latest ]</span> I will be  joining the Computer Science PhD program at Georgia Tech, starting Fall 2017!
+## Updates
+
+<!--<span style="color:red;">Updates</span>-->
+<ul>
+<li>[ 5th July 2017 ] <span style="color:red;">[ New ]</span> I presented a lab+tutorial session on "Deep Faces" during the <a href="http://cvit.iiit.ac.in/cvsummerschool2017/">Summer School on Computer Vision</a> (SSCV 2017) at <a href="http://cvit.iiit.ac.in/">CVIT</a>, <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a>. Here is a <a href="https://github.com/samyak-268/deep-face-tutorial"> link</a> to the GitHub repository that hosts the IPython notebooks.</li><br />
+<li>[ 14th June 2017 ] I was interviewed by the folks at <a href="bestprogrammingbooks.com">bestprogrammingbooks.com</a>. Here is a <a href="http://bestprogrammingbooks.com/interview-with-samyak-datta-author-of-learning-opencv/">link</a> to the write-up.</li>
+<li>[ 14th April 2017 ]: I will be  joining the Computer Science PhD program at Georgia Tech, starting Fall 2017!</li>
+</ul>
+
 
 <br />
 <p> <a href="mailto:datta.samyak@gmail.com"> Email </a> | <a href="http://github.com/samyak-268/">GitHub</a> </p>
