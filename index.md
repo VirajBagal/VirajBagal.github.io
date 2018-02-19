@@ -31,7 +31,7 @@ Broadly speaking, my area of interests lie at the intersection of Vision and Lan
 
 <br />
 
-## Research and Selected Projects
+## Publications
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
@@ -55,7 +55,7 @@ Broadly speaking, my area of interests lie at the intersection of Vision and Lan
 		</tr>		
 	</tbody>
 
-	<tbody>
+	<!-- <tbody>
 		<tr>
 			<td width="25%"><img src="/image/learning_opencv3_cover.jpg" alt="Learning OpenCV 3 Application Development" width="250" style="border-style: none"></td>
 			<td width="75%" valign="top">
@@ -71,21 +71,8 @@ Broadly speaking, my area of interests lie at the intersection of Vision and Lan
 			</td>
 			
 		</tr>		
-	</tbody>
-
-	<!-- <tbody>
-		<tr>
-			<td width="25%"><img src="/image/auto-attendance.jpg" alt="Automated Attendance" width="250" style="border-style: none"></td>
-			<td width="75%" valign="top">
-				<p>
-				<a>Automated Classroom Attendance using Deep Face Recognition</a><br>
-				<strong>Samyak Datta</strong>, Ashwin Sudhir, Harshil Jain and <a href="https://www.iiit.ac.in/~jawahar/">C.V. Jawahar</a> <br>
-				<em>(in progress)</em>, September 2016 - present <br>
-				</p>
-			</td>
-			
-		</tr>		
 	</tbody> -->
+
 
 	<tbody>
 		<tr>
@@ -94,7 +81,7 @@ Broadly speaking, my area of interests lie at the intersection of Vision and Lan
 				<p>
 					<a>Unsupervised Learning of Face Representations</a> <br>
 				<strong>Samyak Datta</strong>, <a href="http://www.grvsharma.com">Gaurav Sharma</a> and <a href="https://www.iiit.ac.in/~jawahar/">C.V. Jawahar</a><br>
-				<em>(under review)</em> <br>
+				<em>IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018)</em> <br>
 				</p>
 			</td>
 			
@@ -131,7 +118,7 @@ Broadly speaking, my area of interests lie at the intersection of Vision and Lan
 		</tr>		
 	</tbody>
 
-	<tbody>
+	<!-- <tbody>
 		<tr>
 			<td width="25%"><img src="/image/gender-project.png" alt="Gender Classification Project" width="250" style="border-style: none"></td>
 			<td width="75%" valign="top">
@@ -144,7 +131,7 @@ Broadly speaking, my area of interests lie at the intersection of Vision and Lan
 			</td>
 			
 		</tr>		
-	</tbody>
+	</tbody> -->
 	
 </table>
 
