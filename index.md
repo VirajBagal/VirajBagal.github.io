@@ -58,7 +58,7 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 					<a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>,
 					<a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a> and 
 					<a href="https://www.cc.gatech.edu/~dbatra/">Dhruv Batra</a><br>
-					<em>Computer Vision and Pattern Recognition (CVPR), 2018</em>
+					<em>Computer Vision and Pattern Recognition (CVPR), 2018 </em><span style="color:red;">(Oral)</span>
 					<br><br>
 
 					<a href="https://arxiv.org/abs/1711.11543">arxiv</a> / <a href="https://embodiedqa.org">project page</a>
@@ -92,9 +92,11 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 			<td width="25%"><img src="/image/unsup-faces-overview.png" alt="Unsupervised Faces" width="250" style="border-style: none"></td>
 			<td width="75%" valign="top">
 				<p>
-					<a>Unsupervised Learning of Face Representations</a> <br>
+					<a href="https://arxiv.org/pdf/1803.01260.pdf">Unsupervised Learning of Face Representations</a> <br>
 				<strong>Samyak Datta</strong>, <a href="http://www.grvsharma.com">Gaurav Sharma</a> and <a href="https://www.iiit.ac.in/~jawahar/">C.V. Jawahar</a><br>
-				<em>IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018)</em> <br>
+				<em>IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2018</em>
+				<span style="color:red;">(Oral)</span>
+				<br>
 				</p>
 			</td>
 			
