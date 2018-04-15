@@ -10,27 +10,29 @@ src="/image/personal-photo.jpg" alt="profile picture" width="230" height="300"> 
 I am a first year PhD student advised by [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/) in the School of Interactive Computing within the College of Computing at Georgia Tech. I also work closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/index.html). Prior to starting my PhD, I was a Research Assistant at the [Center for Visual Information Technology](https://cvit.iiit.ac.in/) (CVIT), [IIIT-Hyderabad](https://www.iiit.ac.in) working under the joint supervision of [Prof. C.V. Jawahar](https://www.iiit.ac.in/~jawahar/) and [Prof. Gaurav Sharma](http://www.grvsharma.com). Before moving to Hyderabad, I was a Software Engineer at [Media.net](http://www.media.net/) in Mumbai. I completed my dual degree (B. Tech + M. Tech) in Computer Science and Engineering from [IIT Roorkee](http://www.iitr.ac.in/) in 2015.  Over the course of my undergrad, I spent 3 wonderful summers at Google India, Media.net and Cadence Design Systems working on projects ranging from Machine Learning, Natural Language Processing to building web-based products.
 
 
-Broadly speaking, my area of interests lie at the intersection of Vision and Language. In the past, I have also worked on problems in the space of facial analysis, both fundamental and applied aspects.
+Broadly speaking, my area of interests lie at the intersection of vision, language and actions. I am interested in training embodied agents to solve high-level AI tasks such as visual navigation and question-answering in simulation environments. In the past, I have also worked on problems in the space of facial analysis, both fundamental and applied aspects.
 
 ## Updates
 
 <!--<span style="color:red;">Updates</span>-->
 <ul>
+<li> [ 10th April 2018 ] <span style="color:red;">[ New ]</span> I am serving as a
+reviewer for <a href="https://eccv2018.org/">ECCV 2018</a>.</li>
+
 <li> [ 18th February 2018 ] <span style="color:red;">[ New ]</span> Our paper on
-"Embodied Question Answering" has been accepted for publication at CVPR 2018!
- <br></li>
+<a href="embodiedqa.org">Embodied Question Answering</a> has been accepted as an oral at CVPR 2018!</li>
 
 <li> [ 26th January 2018 ] <span style="color:red;">[ New ]</span> Our paper on
-"Unsupervised Learning of Face Representations" has been accepted for publication at
-IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018)!	
+"Unsupervised Learning of Face Representations" has been accepted as an oral at
+IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018)!
 </li>
 
-<li>[ 1st December 2017 ] <span style="color:red;">[ New ]</span> arXiv paper on
+<li>[ 1st December 2017 ] arXiv paper on
 <a href="https://arxiv.org/abs/1711.11543">Embodied Question Answering</a> is out. Check out the task, dataset and models at <a href="https://embodiedqa.org"> embodiedqa.org</a>. </li>
 
 <li>[ 5th July 2017 ] I presented a lab+tutorial session on "Deep Faces" during the <a href="http://cvit.iiit.ac.in/cvsummerschool2017/">Summer School on Computer Vision</a> (SSCV 2017) at <a href="http://cvit.iiit.ac.in/">CVIT</a>, <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a>. Here is a <a href="https://github.com/samyak-268/deep-face-tutorial"> link</a> to the GitHub repository that hosts the IPython notebooks.</li>
 
-<li>[ 14th June 2017 ] I was interviewed by the folks at <a href="bestprogrammingbooks.com">bestprogrammingbooks.com</a>. Here is a <a href="http://bestprogrammingbooks.com/interview-with-samyak-datta-author-of-learning-opencv/">link</a> to the write-up.</li>
+<!-- <li>[ 14th June 2017 ] I was interviewed by the folks at <a href="bestprogrammingbooks.com">bestprogrammingbooks.com</a>. Here is a <a href="http://bestprogrammingbooks.com/interview-with-samyak-datta-author-of-learning-opencv/">link</a> to the write-up.</li> -->
 <!-- <li>[ 14th April 2017 ]: I will be  joining the Computer Science PhD program at Georgia Tech, starting Fall 2017!</li> -->
 </ul>
 
@@ -96,7 +98,9 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 				<strong>Samyak Datta</strong>, <a href="http://www.grvsharma.com">Gaurav Sharma</a> and <a href="https://www.iiit.ac.in/~jawahar/">C.V. Jawahar</a><br>
 				<em>IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2018</em>
 				<span style="color:red;">(Oral)</span>
-				<br>
+				<br><br>
+
+				<a href="https://arxiv.org/abs/1803.01260">arxiv</a>
 				</p>
 			</td>
 			
