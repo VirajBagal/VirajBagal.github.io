@@ -16,6 +16,9 @@ Broadly speaking, my area of interests lie at the intersection of vision, langua
 
 <!--<span style="color:red;">Updates</span>-->
 <ul>
+
+<li>[ 21st May 2018 ] <span style="color:red;">[ New ]</span> Our paper on "Unsupervised Learning of Face Representations" won the <b>Best Paper Award</b> at FG 2018!</li>
+
 <li> [ 10th April 2018 ] <span style="color:red;">[ New ]</span> I am serving as a
 reviewer for <a href="https://eccv2018.org/">ECCV 2018</a>.</li>
 
@@ -30,10 +33,12 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 <li>[ 1st December 2017 ] arXiv paper on
 <a href="https://arxiv.org/abs/1711.11543">Embodied Question Answering</a> is out. Check out the task, dataset and models at <a href="https://embodiedqa.org"> embodiedqa.org</a>. </li>
 
+<!-- 
 <li>[ 5th July 2017 ] I presented a lab+tutorial session on "Deep Faces" during the <a href="http://cvit.iiit.ac.in/cvsummerschool2017/">Summer School on Computer Vision</a> (SSCV 2017) at <a href="http://cvit.iiit.ac.in/">CVIT</a>, <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a>. Here is a <a href="https://github.com/samyak-268/deep-face-tutorial"> link</a> to the GitHub repository that hosts the IPython notebooks.</li>
 
-<!-- <li>[ 14th June 2017 ] I was interviewed by the folks at <a href="bestprogrammingbooks.com">bestprogrammingbooks.com</a>. Here is a <a href="http://bestprogrammingbooks.com/interview-with-samyak-datta-author-of-learning-opencv/">link</a> to the write-up.</li> -->
-<!-- <li>[ 14th April 2017 ]: I will be  joining the Computer Science PhD program at Georgia Tech, starting Fall 2017!</li> -->
+<li>[ 14th June 2017 ] I was interviewed by the folks at <a href="bestprogrammingbooks.com">bestprogrammingbooks.com</a>. Here is a <a href="http://bestprogrammingbooks.com/interview-with-samyak-datta-author-of-learning-opencv/">link</a> to the write-up.</li> -->
+<!-- <li>[ 14th April 2017 ]: I will be  joining the Computer Science PhD program at Georgia Tech, starting Fall 2017!</li>
+-->
 </ul>
 
 
@@ -97,7 +102,8 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 					<a href="https://arxiv.org/pdf/1803.01260.pdf">Unsupervised Learning of Face Representations</a> <br>
 				<strong>Samyak Datta</strong>, <a href="http://www.grvsharma.com">Gaurav Sharma</a> and <a href="https://www.iiit.ac.in/~jawahar/">C.V. Jawahar</a><br>
 				<em>IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2018</em>
-				<span style="color:red;">(Oral)</span>
+				<span style="color:red;">(Oral)</span><br>
+				<span style="color:red;">Best Paper Award</span>
 				<br><br>
 
 				<a href="https://arxiv.org/abs/1803.01260">arxiv</a>
