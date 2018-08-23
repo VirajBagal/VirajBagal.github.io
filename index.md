@@ -17,15 +17,17 @@ Broadly speaking, my area of interests lie at the intersection of vision, langua
 <!--<span style="color:red;">Updates</span>-->
 <ul>
 
-<li>[ 21st May 2018 ] <span style="color:red;">[ New ]</span> Our paper on "Unsupervised Learning of Face Representations" won the <b>Best Paper Award</b> at FG 2018!</li>
+<li>[ May 2018 ] <span style="color:red;">[ New ]</span> I am excited to be one of the co-organizers of the ECCV 2018 workshop on <a href="http://eccv18-vlease.github.io/">Visual Learning and Embodied Agents in Simulation Environments</a></li>
 
-<li> [ 10th April 2018 ] <span style="color:red;">[ New ]</span> I am serving as a
+<li>[ May 2018 ] <span style="color:red;">[ New ]</span> Our paper on "Unsupervised Learning of Face Representations" won the <b>Best Paper Award</b> at FG 2018!</li>
+
+<li> [ April 2018 ] <span style="color:red;">[ New ]</span> I am serving as a
 reviewer for <a href="https://eccv2018.org/">ECCV 2018</a>.</li>
 
-<li> [ 18th February 2018 ] <span style="color:red;">[ New ]</span> Our paper on
+<li> [ February 2018 ] <span style="color:red;">[ New ]</span> Our paper on
 <a href="embodiedqa.org">Embodied Question Answering</a> has been accepted as an oral at CVPR 2018!</li>
 
-<li> [ 26th January 2018 ] <span style="color:red;">[ New ]</span> Our paper on
+<li> [ January 2018 ] Our paper on
 "Unsupervised Learning of Face Representations" has been accepted as an oral at
 IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018)!
 </li>
