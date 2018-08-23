@@ -10,7 +10,7 @@ src="/image/personal-photo.jpg" alt="profile picture" width="230" height="300"> 
 I am a first year PhD student advised by [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/) in the School of Interactive Computing within the College of Computing at Georgia Tech. I also work closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/index.html). Prior to starting my PhD, I was a Research Assistant at the [Center for Visual Information Technology](https://cvit.iiit.ac.in/) (CVIT), [IIIT-Hyderabad](https://www.iiit.ac.in) working under the joint supervision of [Prof. C.V. Jawahar](https://www.iiit.ac.in/~jawahar/) and [Prof. Gaurav Sharma](http://www.grvsharma.com). Before moving to Hyderabad, I was a Software Engineer at [Media.net](http://www.media.net/) in Mumbai. I completed my dual degree (B. Tech + M. Tech) in Computer Science and Engineering from [IIT Roorkee](http://www.iitr.ac.in/) in 2015.  Over the course of my undergrad, I spent 3 wonderful summers at Google India, Media.net and Cadence Design Systems working on projects ranging from Machine Learning, Natural Language Processing to building web-based products.
 
 
-Broadly speaking, my area of interests lie at the intersection of vision, language and actions. I am interested in training embodied agents to solve high-level AI tasks such as visual navigation and question-answering in simulation environments. In the past, I have also worked on problems in the space of facial analysis, both fundamental and applied aspects.
+Broadly speaking, my area of interests lie at the intersection of vision, language and actions. I am interested in training embodied agents to solve high-level AI tasks such as visual navigation and question-answering in simulation environments. I have also worked on problems in the space of weakly supervised learning.
 
 ## Updates
 
@@ -33,7 +33,7 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 <li>[ 1st December 2017 ] arXiv paper on
 <a href="https://arxiv.org/abs/1711.11543">Embodied Question Answering</a> is out. Check out the task, dataset and models at <a href="https://embodiedqa.org"> embodiedqa.org</a>. </li>
 
-<!-- 
+<!--
 <li>[ 5th July 2017 ] I presented a lab+tutorial session on "Deep Faces" during the <a href="http://cvit.iiit.ac.in/cvsummerschool2017/">Summer School on Computer Vision</a> (SSCV 2017) at <a href="http://cvit.iiit.ac.in/">CVIT</a>, <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a>. Here is a <a href="https://github.com/samyak-268/deep-face-tutorial"> link</a> to the GitHub repository that hosts the IPython notebooks.</li>
 
 <li>[ 14th June 2017 ] I was interviewed by the folks at <a href="bestprogrammingbooks.com">bestprogrammingbooks.com</a>. Here is a <a href="http://bestprogrammingbooks.com/interview-with-samyak-datta-author-of-learning-opencv/">link</a> to the write-up.</li> -->
@@ -63,7 +63,7 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 					<strong>Samyak Datta</strong>,
 					<a href="https://gkioxari.github.io/">Georgia Gkioxari</a>,
 					<a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>,
-					<a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a> and 
+					<a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a> and
 					<a href="https://www.cc.gatech.edu/~dbatra/">Dhruv Batra</a><br>
 					<em>Computer Vision and Pattern Recognition (CVPR), 2018 </em><span style="color:red;">(Oral)</span>
 					<br><br>
@@ -71,7 +71,7 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 					<a href="https://arxiv.org/abs/1711.11543">arxiv</a> / <a href="https://embodiedqa.org">project page</a>
 				</p>
 			</td>
-			
+
 		</tr>		
 	</tbody>
 
@@ -89,7 +89,7 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 				</p>
 				</p>
 			</td>
-			
+
 		</tr>		
 	</tbody> -->
 
@@ -109,10 +109,10 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 				<a href="https://arxiv.org/abs/1803.01260">arxiv</a>
 				</p>
 			</td>
-			
+
 		</tr>		
 	</tbody>
-	
+
 	<!--		
 	<tbody>
 		<tr>
@@ -124,7 +124,7 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 				<em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<b>under review</b>) <br>
 				</p>
 			</td>
-			
+
 		</tr>		
 	</tbody>
 	-->
@@ -139,7 +139,7 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 				<em>International Conference on Computer Vision and Image Processing (CVIP)</em>, 2016<br>
 				</p>
 			</td>
-			
+
 		</tr>		
 	</tbody>
 
@@ -154,10 +154,10 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 				<a href="/pdfs/gender-report.pdf">project report</a> / <a href="https://github.com/samyak-268/gender-classification">code</a>
 				</p>
 			</td>
-			
+
 		</tr>		
 	</tbody> -->
-	
+
 </table>
 
 <br>
