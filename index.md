@@ -7,7 +7,7 @@ src="/image/personal-photo-round.jpg" alt="profile picture" width="230" height="
 <!-- <img style="width=305px;height=435px;float:right;padding:20px;"
 src="/image/personal-photo.jpg" alt="profile picture" width="230" height="300"> -->
 
-I am a first year PhD student advised by [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/) in the School of Interactive Computing within the College of Computing at Georgia Tech. I also work closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/index.html). Prior to starting my PhD, I was a Research Assistant at the [Center for Visual Information Technology](https://cvit.iiit.ac.in/) (CVIT), [IIIT-Hyderabad](https://www.iiit.ac.in) working under the joint supervision of [Prof. C.V. Jawahar](https://www.iiit.ac.in/~jawahar/) and [Prof. Gaurav Sharma](http://www.grvsharma.com). Before moving to Hyderabad, I was a Software Engineer at [Media.net](http://www.media.net/) in Mumbai. I completed my dual degree (B. Tech + M. Tech) in Computer Science and Engineering from [IIT Roorkee](http://www.iitr.ac.in/) in 2015.  Over the course of my undergrad, I spent 3 wonderful summers at Google India, Media.net and Cadence Design Systems working on projects ranging from Machine Learning, Natural Language Processing to building web-based products.
+I am a second year PhD student advised by [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/) in the School of Interactive Computing within the College of Computing at Georgia Tech. I also work closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/index.html). Prior to starting my PhD, I was a Research Assistant at the [Center for Visual Information Technology](https://cvit.iiit.ac.in/) (CVIT), [IIIT-Hyderabad](https://www.iiit.ac.in) working under the joint supervision of [Prof. C.V. Jawahar](https://www.iiit.ac.in/~jawahar/) and [Prof. Gaurav Sharma](http://www.grvsharma.com). Before moving to Hyderabad, I was a Software Engineer at [Media.net](http://www.media.net/) in Mumbai. I completed my dual degree (B. Tech + M. Tech) in Computer Science and Engineering from [IIT Roorkee](http://www.iitr.ac.in/) in 2015.  Over the course of my undergrad, I spent 3 wonderful summers at Google India, Media.net and Cadence Design Systems working on projects ranging from Machine Learning, Natural Language Processing to building web-based products.
 
 
 Broadly speaking, my area of interests lie at the intersection of vision, language and actions. I am interested in training embodied agents to solve high-level AI tasks such as visual navigation and question-answering in simulation environments. I have also worked on problems in the space of weakly supervised learning.
@@ -17,9 +17,11 @@ Broadly speaking, my area of interests lie at the intersection of vision, langua
 <!--<span style="color:red;">Updates</span>-->
 <ul>
 
+<li>[ September 2018 ] <span style="color:red;">[ New ]</span> I am excited to be one of the co-organizers of the NIPS 2018 workshop on <a href="https://nips2018vigil.github.io/">Visually Grounded Interaction and Language (ViGIL)</a></li>
+
 <li>[ May 2018 ] <span style="color:red;">[ New ]</span> I am excited to be one of the co-organizers of the ECCV 2018 workshop on <a href="http://eccv18-vlease.github.io/">Visual Learning and Embodied Agents in Simulation Environments</a></li>
 
-<li>[ May 2018 ] <span style="color:red;">[ New ]</span> Our paper on "Unsupervised Learning of Face Representations" won the <b>Best Paper Award</b> at FG 2018!</li>
+<li>[ May 2018 ] <span style="color:red;">[ New ]</span> Our paper on "Unsupervised Learning of Face Representations" won the <span style="color:red;">Best Paper Award</span> at FG 2018!</li>
 
 <li> [ April 2018 ] <span style="color:red;">[ New ]</span> I am serving as a
 reviewer for <a href="https://eccv2018.org/">ECCV 2018</a>.</li>
@@ -167,6 +169,20 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 ## Internships
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+
+	<tbody>
+		<tr>
+			<td width="25%"><img src="/image/sri-logo.jpeg" alt="Media.net" width="250" style="border-style: none"></td>
+			<td width="75%" valign="top">
+				<p>
+				<a href="https://www.sri.com/" target="_blank">SRI International</a> <br>
+				<em>Research Intern</em>, May 2018 - August 2018<br>
+				<p style="font-size:14px;">Worked as part of the Computer Vision Technologies Group on problems in the area of weakly supervised multi-modal matching of images and text. (More details coming soon)</p><br>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+
 	<tbody>
 		<tr>
 			<td width="25%"><img src="/image/media-net-logo.png" alt="Media.net" width="250" style="border-style: none"></td>
