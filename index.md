@@ -59,7 +59,51 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 
 	<tbody>
 		<tr>
-			<td width="25%"><img src="/image/eqa-teaser.png" alt="EmbodiedQA" width="250" style="border-style: none"></td>
+			<td width="25%"><img src="/image/eqa-mp3d-teaser.png" alt="EmbodiedQA" width="250" style="border-style: none"></td>
+			<td width="75%" valign="top">
+				<p>
+					<a href="https://arxiv.org/pdf/1904.03461.pdf">Embodied Question Answering in Photorealistic Environments with Point Cloud Perception</a> <br>
+					
+					<a href="https://wijmans.xyz"> Erik Wijmans* </a>,
+					<strong>Samyak Datta*</strong>,
+					<a href="https://research.fb.com/people/maksymets-oleksandr/">Oleksandr Maksymets* </a>,
+					<a href="https://abhishekdas.com/"> Abhishek Das </a>,
+					<a href="https://gkioxari.github.io/">Georgia Gkioxari</a>,
+					<a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>,
+					<a href="http://prof.irfanessa.com">Irfan Essa</a>,
+					<a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a> and
+					<a href="https://www.cc.gatech.edu/~dbatra/">Dhruv Batra</a><br>
+					<em>Computer Vision and Pattern Recognition (CVPR), 2019 </em><span style="color:red;">(Oral)</span>
+					<br>
+
+					<a href="https://arxiv.org/abs/1904.03461">arxiv</a>
+				</p>
+			</td>
+
+		</tr>
+
+		<tr>
+			<td width="25%"><img src="/image/wsmm-teaser.jpg" alt="Align2Ground" width="250" style="border-style: none"></td>
+			<td width="75%" valign="top">
+				<p>
+					<a href="https://arxiv.org/pdf/1903.11649.pdf">Align2Ground: Weakly Supervised Phrase Grounding Guided by Image-Caption Alignment</a> <br>
+					
+					<strong>Samyak Datta</strong>,
+					<a href="https://ksikka.com">Karan Sikka</a>,
+					<a href="https://www.linkedin.com/in/anirbanroylinkedin/">Anirban Roy</a>,
+					<a href="https://www.linkedin.com/in/karuna1991/">Karuna Ahuja</a>,
+					<a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a> and
+					<a href="https://www.sri.com/about/people/ajay-divakaran">Ajay Divakaran</a>
+					<br><br>
+
+					<a href="https://arxiv.org/abs/1903.11649">arxiv</a>
+				</p>
+			</td>
+
+		</tr>
+		
+		<tr>
+			<td width="25%"><img src="/image/eqa-teaser.png" alt="EmbodiedQA" width="350" style="border-style: none"></td>
 			<td width="75%" valign="top">
 				<p>
 					<a href="https://arxiv.org/pdf/1711.11543.pdf">Embodied Question Answering</a> <br>
@@ -70,7 +114,7 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 					<a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a> and
 					<a href="https://www.cc.gatech.edu/~dbatra/">Dhruv Batra</a><br>
 					<em>Computer Vision and Pattern Recognition (CVPR), 2018 </em><span style="color:red;">(Oral)</span>
-					<br><br>
+					<br>
 
 					<a href="https://arxiv.org/abs/1711.11543">arxiv</a> / <a href="https://embodiedqa.org">project page</a>
 				</p>
@@ -108,7 +152,7 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 				<em>IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2018</em>
 				<span style="color:red;">(Oral)</span><br>
 				<span style="color:red;">Best Paper Award</span>
-				<br><br>
+				<br>
 
 				<a href="https://arxiv.org/abs/1803.01260">arxiv</a>
 				</p>
