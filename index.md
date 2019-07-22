@@ -58,6 +58,29 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
 	<tbody>
+		
+		<tr>
+			<td width="25%"><img src="/image/wsmm-teaser.jpg" alt="Align2Ground" width="250" style="border-style: none"></td>
+			<td width="75%" valign="top">
+				<p>
+					<a href="https://arxiv.org/pdf/1903.11649.pdf">Align2Ground: Weakly Supervised Phrase Grounding Guided by Image-Caption Alignment</a> <br>
+					
+					<strong>Samyak Datta</strong>,
+					<a href="https://ksikka.com">Karan Sikka</a>,
+					<a href="https://www.linkedin.com/in/anirbanroylinkedin/">Anirban Roy</a>,
+					<a href="https://www.linkedin.com/in/karuna1991/">Karuna Ahuja</a>,
+					<a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a> and
+					<a href="https://www.sri.com/about/people/ajay-divakaran">Ajay Divakaran</a>
+					<em>International Conference on Computer Vision (ICCV), 2019 </em>
+					<br>
+
+					<a href="https://arxiv.org/abs/1903.11649">arxiv</a>
+				</p>
+			</td>
+
+		</tr>
+		
+		
 		<tr>
 			<td width="25%"><img src="/image/eqa-mp3d-teaser.png" alt="EmbodiedQA" width="250" style="border-style: none"></td>
 			<td width="75%" valign="top">
@@ -77,26 +100,6 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 					<br>
 
 					<a href="https://arxiv.org/abs/1904.03461">arxiv</a>
-				</p>
-			</td>
-
-		</tr>
-
-		<tr>
-			<td width="25%"><img src="/image/wsmm-teaser.jpg" alt="Align2Ground" width="250" style="border-style: none"></td>
-			<td width="75%" valign="top">
-				<p>
-					<a href="https://arxiv.org/pdf/1903.11649.pdf">Align2Ground: Weakly Supervised Phrase Grounding Guided by Image-Caption Alignment</a> <br>
-					
-					<strong>Samyak Datta</strong>,
-					<a href="https://ksikka.com">Karan Sikka</a>,
-					<a href="https://www.linkedin.com/in/anirbanroylinkedin/">Anirban Roy</a>,
-					<a href="https://www.linkedin.com/in/karuna1991/">Karuna Ahuja</a>,
-					<a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a> and
-					<a href="https://www.sri.com/about/people/ajay-divakaran">Ajay Divakaran</a>
-					<br><br>
-
-					<a href="https://arxiv.org/abs/1903.11649">arxiv</a>
 				</p>
 			</td>
 
