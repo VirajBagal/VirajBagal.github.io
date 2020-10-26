@@ -7,7 +7,7 @@ src="/image/personal-photo-round.jpg" alt="profile picture" width="230" height="
 <!-- <img style="width=305px;height=435px;float:right;padding:20px;"
 src="/image/personal-photo.jpg" alt="profile picture" width="230" height="300"> -->
 
-I am a third year PhD student advised by [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/) in the School of Interactive Computing within the College of Computing at Georgia Tech. I also work closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/index.html). Prior to starting my PhD, I was a Research Assistant at the [Center for Visual Information Technology](https://cvit.iiit.ac.in/) (CVIT), [IIIT-Hyderabad](https://www.iiit.ac.in) working under the joint supervision of [Prof. C.V. Jawahar](https://www.iiit.ac.in/~jawahar/) and [Prof. Gaurav Sharma](http://www.grvsharma.com). Before moving to Hyderabad, I was a Software Engineer at [Media.net](http://www.media.net/) in Mumbai. I completed my dual degree (B. Tech + M. Tech) in Computer Science and Engineering from [IIT Roorkee](http://www.iitr.ac.in/) in 2015.  Over the course of my undergrad, I spent 3 wonderful summers at Google India, Media.net and Cadence Design Systems working on projects ranging from Machine Learning, Natural Language Processing to building web-based products.
+I am a fourth year PhD student advised by [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/) in the School of Interactive Computing within the College of Computing at Georgia Tech. I also work closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/index.html). Prior to starting my PhD, I was a Research Assistant at the [Center for Visual Information Technology](https://cvit.iiit.ac.in/) (CVIT), [IIIT-Hyderabad](https://www.iiit.ac.in) working under the joint supervision of [Prof. C.V. Jawahar](https://www.iiit.ac.in/~jawahar/) and [Prof. Gaurav Sharma](http://www.grvsharma.com). Before moving to Hyderabad, I was a Software Engineer at [Media.net](http://www.media.net/) in Mumbai. I completed my dual degree (B. Tech + M. Tech) in Computer Science and Engineering from [IIT Roorkee](http://www.iitr.ac.in/) in 2015.  Over the course of my undergrad, I spent 3 wonderful summers at Google India, Media.net and Cadence Design Systems working on projects ranging from Machine Learning, Natural Language Processing to building web-based products.
 
 
 Broadly speaking, my area of interests lie at the intersection of vision, language and actions. I am interested in training embodied agents to solve high-level AI tasks such as visual navigation and question-answering in simulation environments. I have also worked on problems in the space of weakly supervised learning.
@@ -58,6 +58,27 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
 	<tbody>
+		
+		<tr>
+			<td width="25%"><img src="/image/nogps-teaser.png" alt="PointNav-NoGPS" width="250" style="border-style: none"></td>
+			<td width="75%" valign="top">
+				<p>
+					<a href="https://arxiv.org/pdf/2009.03231.pdf">Integrating Egocentric Localization for More Realistic Point-Goal Navigation Agents</a> <br>
+					
+					<strong>Samyak Datta</strong>,
+					<a href="https://research.fb.com/people/maksymets-oleksandr/">Oleksandr Maksymets</a>,
+					<a href="https://www.cc.gatech.edu/~judy/">Judy Hoffman</a>,
+					<a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>,
+					<a href="https://www.cc.gatech.edu/~dbatra/">Dhruv Batra</a> and
+					<a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a>
+					<em>Conference on Robot Learning (CoRL), 2020 </em>
+					<br>
+
+					<a href="https://arxiv.org/abs/2009.03231">arxiv</a>
+				</p>
+			</td>
+
+		</tr>
 		
 		<tr>
 			<td width="25%"><img src="/image/wsmm-teaser.jpg" alt="Align2Ground" width="250" style="border-style: none"></td>
@@ -213,9 +234,9 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 
 <br>
 
-## Internships
+<!-- ## Internships -->
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<!-- <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
 	<tbody>
 		<tr>
@@ -268,4 +289,4 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 			</td>
 		</tr>
 	</tbody>
-</table>
+</table> -->
