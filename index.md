@@ -68,7 +68,7 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 					<strong>Samyak Datta</strong>,
 					<a href="https://research.fb.com/people/maksymets-oleksandr/">Oleksandr Maksymets</a>,
 					<a href="https://www.cc.gatech.edu/~judy/">Judy Hoffman</a>,
-					<a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>,
+					<a href="http://web.engr.oregonstate.edu/~leestef/">Stefan Lee</a>,
 					<a href="https://www.cc.gatech.edu/~dbatra/">Dhruv Batra</a> and
 					<a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a>
 					<em>Conference on Robot Learning (CoRL), 2020 </em>
@@ -113,7 +113,7 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 					<a href="https://research.fb.com/people/maksymets-oleksandr/">Oleksandr Maksymets* </a>,
 					<a href="https://abhishekdas.com/"> Abhishek Das </a>,
 					<a href="https://gkioxari.github.io/">Georgia Gkioxari</a>,
-					<a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>,
+					<a href="http://web.engr.oregonstate.edu/~leestef/">Stefan Lee</a>,
 					<a href="http://prof.irfanessa.com">Irfan Essa</a>,
 					<a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a> and
 					<a href="https://www.cc.gatech.edu/~dbatra/">Dhruv Batra</a><br>
@@ -134,7 +134,7 @@ IEEE International Conference on Automatic Face and Gesture Recognition (FG 2018
 					<a href="https://abhishekdas.com/"> Abhishek Das </a>,
 					<strong>Samyak Datta</strong>,
 					<a href="https://gkioxari.github.io/">Georgia Gkioxari</a>,
-					<a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>,
+					<a href="http://web.engr.oregonstate.edu/~leestef/">Stefan Lee</a>,
 					<a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a> and
 					<a href="https://www.cc.gatech.edu/~dbatra/">Dhruv Batra</a><br>
 					<em>Computer Vision and Pattern Recognition (CVPR), 2018 </em><span style="color:red;">(Oral)</span>
