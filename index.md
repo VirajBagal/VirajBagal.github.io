@@ -106,7 +106,7 @@ funded throughout my degree by KVPY organization. </li>
 	<tbody>
 		
 		<tr>
-			<td width="25%"><img src="/data/acc_fmix_mew.png" alt="FMix" width="250" style="border-style: none"></td>
+			<td width="25%"><img src="/data/acc_fmix_new.png" alt="FMix" width="250" style="border-style: none"></td>
 			<td width="75%" valign="top">
 				<p>
 					Re-implementation of Ethan Harris et al. FMix: Enhancing Mixed Sample Data Augmentation <br>
