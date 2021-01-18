@@ -2,7 +2,7 @@
 layout: default
 ---
 <img style="float:right;padding:20px;"
-src="/data/viraj.png" alt="profile picture" width="230" height="300">
+src="/data/viraj_circle.png" alt="profile picture" width="230" height="300">
 
 <!-- <img style="width=305px;height=435px;float:right;padding:20px;"
 src="/image/personal-photo.jpg" alt="profile picture" width="230" height="300"> -->
