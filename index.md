@@ -27,7 +27,7 @@ interpretable multimodal systems for application in healthcare and drug generati
 <li> [Oct 2020] Submitted  <a href="data/mmbert.pdf">MMBERT: Multimodal BERT for Improved VQA</a> to
 the International Symposium of Biomedical Imaging (ISBI) 2021.
 </li>
-<li> [May 2020] I will working as a Research Fellow in the <a href="https://blogs.iiit.ac.in/hai/">Healthcare with AI (HAI) team</a>!
+<li> [May 2020] I will be joining <a href="https://blogs.iiit.ac.in/hai/">Healthcare with AI (HAI) team at IIIT-Hyderabad as a Research Fellow</a>!
 </li>
 </ul>
 
@@ -62,7 +62,7 @@ funded throughout my degree by KVPY organization. </li>
 					<a href="/data/liggpt.pdf">LigGPT: Molecular Generation using a Transfomer-Decoder Model</a> <br>
 					
 					<strong>Viraj Bagal</strong>,
-					Rishal Agarwa and
+					Rishal Agarwal and
 					U. Deva Priyakumar
 					<em>Under review </em>
 					<br>
