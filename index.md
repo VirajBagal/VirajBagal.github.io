@@ -8,7 +8,7 @@ src="/data/viraj.png" alt="profile picture" width="230" height="300">
 src="/image/personal-photo.jpg" alt="profile picture" width="230" height="300"> -->
 
 I am a final year BS-MS student at the Indian Institute of Science Education and Research (IISER), Pune, India. Currently, 
-I am a Research Fellow at the International Institute of Information Technology (IIIT), Hyderabad advised by <a
+I am a Research Fellow at the International Institute of Information Technology (IIIT), Hyderabad advised by
 [Professor CV Jawahar](https://faculty.iiit.ac.in/~jawahar/) and [Dr. U. Deva Priyakumar](http://devalab.org/).
 I am a part of [Healthcare with AI (HAI)](https://blogs.iiit.ac.in/hai/) team at IIIT.
 
