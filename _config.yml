@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Samyak Datta
-email: datta [dot] samyak [at] gmail.com
+title: Viraj Bagal
+email: virajbagal12 [at] gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is Samyak Datta's personal website and blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://samyak-268.github.io" # the base hostname & protocol for your site
+url: "http://VirajBagal.github.io" # the base hostname & protocol for your site
 permalink: blog/:year/:month/:title
-twitter_username: samyakdatta
-github_username:  samyak-268
+twitter_username: viraj_bagal
+github_username:  VirajBagal
 
 # Build settings
 markdown: kramdown
