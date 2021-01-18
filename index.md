@@ -37,6 +37,7 @@ the International Symposium of Biomedical Imaging (ISBI) 2021.
 
 <br />
 
+<br />
 ## Achievements
 
 <!--<span style="color:red;">Updates</span>-->
@@ -48,6 +49,8 @@ funded throughout my degree by KVPY organization. </li>
 <li> Selected in Madhava Mathematics Competition 2018, conducted by TIFR, Mumbai.
 </li>
 </ul>
+
+<br />
 
 ## Publications
 
