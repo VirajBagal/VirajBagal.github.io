@@ -131,6 +131,16 @@ funded throughout my degree by KVPY organization. </li>
 
 		</tr>
 		
+		<tr>
+			<td width="25%"><img src="/data/panda.png" alt="PANDA" width="250" style="border-style: none"></td>
+			<td width="75%" valign="top">
+				<p>
+					Prostate cANcer graDe Assessment (PANDA) Challenge, Kaggle <br>
+					<a href="https://www.kaggle.com/c/prostate-cancer-grade-assessment/leaderboard">Leaderboard: Stood 16<sup>th</sup>. Top 2%. </a>
+				</p>
+			</td>
+
+		</tr>
 		
 	</tbody>
 </table> 
