@@ -110,7 +110,6 @@ funded throughout my degree by KVPY organization. </li>
 			<td width="75%" valign="top">
 				<p>
 					Re-implementation of Ethan Harris et al. FMix: Enhancing Mixed Sample Data Augmentation <br>
-					<br>
 
 					<a href="https://medium.com/@virajbagal12/mixed-sample-data-augmentation-721e65093fcf">Article</a> | <a href="https://github.com/VirajBagal/FMix-Paper-Implementation">Code</a>
 				</p>
@@ -119,13 +118,12 @@ funded throughout my degree by KVPY organization. </li>
 		</tr>
 		
 		<tr>
-			<td width="25%"><img src="/data/chestxray.png" alt="Chestxray" width="250" style="border-style: none"></td>
+			<td width="25%"><img src="/data/chestxray.jpg" alt="Chestxray" width="250" style="border-style: none"></td>
 			<td width="75%" valign="top">
 				<p>
 					Re-implementation of Ekagra et al. Jointly Learning Convolutional Representations to
 					Compress Radiological Images and Classify Thoracic Diseases in the Compressed
 					Domain. ICVGIP 2018 <br>
-					<br>
 
 					<a href="/data/chest_report.pdf">Report</a> | <a href="https://github.com/VirajBagal/ChestXRay14-Reimplementation">Code</a>
 				</p>
