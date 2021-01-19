@@ -69,7 +69,8 @@ funded throughout my degree by KVPY organization. </li>
 					<em>Under review </em>
 					<br>
 
-					<a href="/data/liggpt.pdf">Paper</a> | <a href="https://github.com/VirajBagal/LigGPT">Code</a>
+					<a href="/data/liggpt.pdf">Paper</a> | <a href="https://github.com/VirajBagal/LigGPT">Code</a> | 
+					<a href="https://docs.google.com/presentation/d/11NoJU2erAoxUCbdBnB8Ss6yAXTJPnnX9CygB6Dl2-TM/edit?usp=sharing">Slides</a>
 				</p>
 			</td>
 
@@ -89,7 +90,8 @@ funded throughout my degree by KVPY organization. </li>
 					<em>International Symposium on Biomedical Imaging (ISBI), 2021 </em>
 					<br>
 
-					<a href="/data/mmbert.pdf">Paper</a> | <a href="https://github.com/VirajBagal/MedicalVQA">Code</a>
+					<a href="/data/mmbert.pdf">Paper</a> | <a href="https://github.com/VirajBagal/MedicalVQA">Code</a> |
+					<a href="https://docs.google.com/presentation/d/1GYlUSgdkClRTUMRTW-4Nr1ltilkPiAN3-ayGWvP7E-A/edit?usp=sharing">Slides</a>
 				</p>
 			</td>
 
