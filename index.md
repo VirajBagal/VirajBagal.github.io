@@ -91,7 +91,7 @@ funded throughout my degree by KVPY organization. </li>
 					<br>
 
 					<a href="/data/mmbert.pdf">Paper</a> | <a href="https://github.com/VirajBagal/MedicalVQA">Code</a> |
-					<a href="https://docs.google.com/presentation/d/1GYlUSgdkClRTUMRTW-4Nr1ltilkPiAN3-ayGWvP7E-A/edit?usp=sharing">Slides</a>
+					<a href="https://docs.google.com/presentation/d/1GYlUSgdkClRTUMRTW-4Nr1ltilkPiAN3-ayGWvP7E-A/edit?usp=sharing">Slides</a>					 | <a href="https://www.dropbox.com/s/gx93itclyvlm2ey/mmbert_video.mp4?dl=0">Video Presentation</a>
 				</p>
 			</td>
 
