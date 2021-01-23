@@ -71,6 +71,7 @@ funded throughout my degree by KVPY organization. </li>
 
 					<a href="/data/liggpt.pdf">Paper</a> | <a href="https://github.com/VirajBagal/LigGPT">Code</a> | 
 					<a href="https://docs.google.com/presentation/d/11NoJU2erAoxUCbdBnB8Ss6yAXTJPnnX9CygB6Dl2-TM/edit?usp=sharing">Slides</a>
+					| <a href="https://www.dropbox.com/s/6qbswn5gchxz5uw/liggpt_video.mp4?dl=0">Video Presentation</a>
 				</p>
 			</td>
 
