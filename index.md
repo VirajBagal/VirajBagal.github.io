@@ -22,6 +22,7 @@ interpretable multimodal systems for application in healthcare and drug generati
 
 <!--<span style="color:red;">Updates</span>-->
 <ul>
+<li> [Jan 2021] <a href="data/liggpt.pdf">LigGPT: Molecular Generation using Transformer-Decoder Model</a> shorter version accepted as oral presentation at AAAI-SDA 2021 workshop!</li>
 <li> [Jan 2021] <a href="data/liggpt.pdf">LigGPT: Molecular Generation using Transformer-Decoder Model</a> preprint ready!</li>
 <li> [Jan 2021] MMBERT got accepted to ISBI 2021! </li>
 <li> [Oct 2020] Submitted  <a href="data/mmbert.pdf">MMBERT: Multimodal BERT for Improved VQA</a> to
