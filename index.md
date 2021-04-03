@@ -108,6 +108,30 @@ funded throughout my degree by KVPY organization. </li>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
 	<tbody>
+	
+		<tr>
+			<td width="25%"><img src="/data/gnn.png" alt="GNN" width="250" style="border-style: none"></td>
+			<td width="75%" valign="top">
+				<p>
+					Text Classification using Graph Neural Networks <br>
+
+					<a href="https://www.kaggle.com/virajbagal/text-classification-using-gcns-and-gats">Notebook</a> | <a href="https://wandb.ai/vbagal/gnn?workspace=user-vbagal">Model Comparisons</a>
+				</p>
+			</td>
+
+		</tr>
+		
+		<tr>
+			<td width="25%"><img src="/data/eval.png" alt="obj" width="250" style="border-style: none"></td>
+			<td width="75%" valign="top">
+				<p>
+					Wheat Head Object Detection <br>
+
+					<a href="https://github.com/VirajBagal/Object_detection">Code</a>
+				</p>
+			</td>
+
+		</tr>
 		
 		<tr>
 			<td width="25%"><img src="/data/acc_fmix_new.png" alt="FMix" width="250" style="border-style: none"></td>
