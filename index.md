@@ -34,7 +34,8 @@ the International Symposium of Biomedical Imaging (ISBI) 2021.
 
 
 <br />
-<p> <a href="mailto:virajbagal12@gmail.com"> Email </a> | <a href="http://github.com/VirajBagal/">GitHub</a> | <a href="http://twitter.com/viraj_bagal/">Twitter</a> | <a href="/data/resume.pdf">Resume</a> </p>
+<p> <a href="mailto:virajbagal12@gmail.com"> Email </a> | <a href="http://github.com/VirajBagal/">GitHub</a> | <a href="http://twitter.com/viraj_bagal/">Twitter</a> | <a href="/data/resume.pdf">Resume</a>  | 
+<a href="https://www.linkedin.com/in/viraj-bagal-02035b194/">LinkedIn</a> </p>
 
 <br />
 
@@ -47,6 +48,8 @@ the International Symposium of Biomedical Imaging (ISBI) 2021.
 <li> All Indian Rank 69 in KVPY 2016 conducted by the Indian Institute of Science, Bangalore. I am 
 funded throughout my degree by KVPY organization. </li>
 <li> National top 1% in National Physics Graduate Examination (NGPE) 2019. </li>
+<li> 2 x Kaggle Expert. Only 8% of Kaggle users are Experts. </li>
+<li> 16th position (top 2%) in PANDA Competition on Kaggle among 1010 participants. </li>
 <li> Selected in Madhava Mathematics Competition 2018, conducted by TIFR, Mumbai.
 </li>
 </ul>
