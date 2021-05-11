@@ -125,12 +125,36 @@ funded throughout my degree by KVPY organization. </li>
 		</tr>
 		
 		<tr>
+			<td width="25%"><img src="/data/shopee.png" alt="obj" width="250" style="border-style: none"></td>
+			<td width="75%" valign="top">
+				<p>
+					Semi-supervised Ecommerce Product Matching <br>
+
+					<a href="https://github.com/VirajBagal/product-matching-shopee">Code</a>
+				</p>
+			</td>
+
+		</tr>
+		
+		<tr>
 			<td width="25%"><img src="/data/eval.png" alt="obj" width="250" style="border-style: none"></td>
 			<td width="75%" valign="top">
 				<p>
 					Wheat Head Object Detection <br>
 
 					<a href="https://github.com/VirajBagal/Object_detection">Code</a>
+				</p>
+			</td>
+
+		</tr>
+		
+		<tr>
+			<td width="25%"><img src="/data/cyclegan.png" alt="obj" width="250" style="border-style: none"></td>
+			<td width="75%" valign="top">
+				<p>
+					CycleGAN: From Photos to Monet paintings and viceversa <br>
+
+					<a href="https://github.com/VirajBagal/cyclegan">Code</a>
 				</p>
 			</td>
 
