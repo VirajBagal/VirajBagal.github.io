@@ -111,6 +111,18 @@ funded throughout my degree by KVPY organization. </li>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
 	<tbody>
+		
+		<tr>
+			<td width="25%"><img src="/data/wav2vec.jpg" alt="GNN" width="250" style="border-style: none"></td>
+			<td width="75%" valign="top">
+				<p>
+					Keyword Spotting from Speech Data <br>
+
+					<a href="https://github.com/VirajBagal/Keyword-Spotting">Code</a> | <a href="https://wandb.ai/vbagal/speech_commands">Model Comparisons</a>
+				</p>
+			</td>
+
+		</tr>
 	
 		<tr>
 			<td width="25%"><img src="/data/gnn.png" alt="GNN" width="250" style="border-style: none"></td>
