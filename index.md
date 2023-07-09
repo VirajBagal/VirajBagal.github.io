@@ -34,7 +34,7 @@ the International Symposium of Biomedical Imaging (ISBI) 2021.
 
 
 <br />
-<p> <a href="mailto:virajbagal12@gmail.com"> Email </a> | <a href="http://github.com/VirajBagal/">GitHub</a> | <a href="http://twitter.com/viraj_bagal/">Twitter</a> | <a href="/data/resume.pdf">Resume</a>  | <a href="/data/nlp_resume.pdf">NLP Resume</a>  | 
+<p> <a href="mailto:virajbagal12@gmail.com"> Email </a> | <a href="http://github.com/VirajBagal/">GitHub</a> | <a href="http://twitter.com/viraj_bagal/">Twitter</a> | <a href="/data/resume.pdf">Resume</a>  | <a href="/data/nlp_resume.pdf">NLP Resume</a>  | <a href="/data/cv_resume.pdf">CV Resume</a>  | 
 <a href="https://www.linkedin.com/in/viraj-bagal-02035b194/">LinkedIn</a> </p>
 
 <br />
